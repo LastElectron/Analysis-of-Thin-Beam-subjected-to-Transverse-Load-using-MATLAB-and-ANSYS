@@ -12,4 +12,5 @@ Dr. Sanjay Gupta
 
 Write a MATLAB code for the given beam made of three different materials subjected to transverse load of 500N using Finite Element Analysis.
 
-![Uploading FEM FINAL REPORT_1_PART2 (corrected after submission).jpg…]()
+![FEM FINAL REPORT_1_PART2 (corrected after submission)](https://github.com/user-attachments/assets/1e9f18d2-0b06-44cc-b0e6-dbda92b0995b)
+
