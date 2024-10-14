@@ -14,7 +14,7 @@ Write a MATLAB code for the given beam made of three different materials subject
 
 ![FEM FINAL REPORT_1_PART2 (corrected after submission)](https://github.com/user-attachments/assets/1e9f18d2-0b06-44cc-b0e6-dbda92b0995b)
 
-The thickness of beam is 1 mm. E1 = 25 GPa, E2 = 50 GPa, E3 = 100 GPa. Assume uniform Poisson’s ratio as 0.3.
+The thickness of the beam is \( t = 1 \, \text{mm} \). The material properties are as follows: \( E_1 = 25 \, \text{GPa} \), \( E_2 = 50 \, \text{GPa} \), and \( E_3 = 100 \, \text{GPa} \). A uniform Poisson’s ratio of \( \nu = 0.3 \) is assumed.
 
 ## Prerequisites
 - Ansys Workbench
